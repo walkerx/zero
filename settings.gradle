@@ -1,0 +1,5 @@
+rootProject.name = 'zero'
+
+include 'zero-bootstrap'
+include 'zero-identity'
+include 'zero-property'
